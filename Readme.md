@@ -86,12 +86,5 @@ This project is licensed under the MIT License.
 
 ---
 
-> Made with ❤️ for the Machine Learning Lab at [Your College Name]
+> Made with ❤️ for the Machine Learning Lab at [DBATU, Lonere]
 ````
-
-**Replace** `yourusername` and `[Your College Name]` as needed!
-
-This is a single, ready-to-copy text block for your `README.md` file.
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/64140270/f6c4b7c1-117c-4103-85a2-3d174def9064/diabetes.csv
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/64140270/c81fa1b0-15b1-4f2c-bf49-346a87e690d1/ML_Lab_8.ipynb
